@@ -1,1 +1,3 @@
-readme file for directory 0x03-git
+now i edit this file
+because it is required
+on task 4
